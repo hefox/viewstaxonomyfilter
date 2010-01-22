@@ -1,0 +1,5 @@
+name = Views taxonomy filter
+description = provides more taxonomy filters than views, like multiple vocabulary for terms to be in filter.
+core = 6.x
+dependancies[] = taxonomy
+dependancies[] = views
